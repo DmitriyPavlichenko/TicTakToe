@@ -1,0 +1,16 @@
+.button {
+    -fx-focus-color: transparent;
+    -fx-background-insets: -1, 0, 1, 1;
+    -fx-font-weight: bold;
+    -fx-font-size: 36;
+    -fx-text-fill: black;
+}
+
+.winning-button {
+    -fx-text-fill: red
+}
+
+.default-button {
+    -fx-text-fill: black
+}
+
